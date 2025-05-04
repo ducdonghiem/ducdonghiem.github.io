@@ -2,15 +2,41 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: University of Manitoba Student Advisor Chatbot
+  role: Web Application
+  duration: Feb, 2025 &mdash; Present
+  url: "https://github.com/ducdonghiem/UM_advisor_published"
+  description: <ul class="resume-item-list"><li>Developed an AI-powered chatbot for university student advising.</li><li>Integrated LangChain, SQL, RAG method, Ngrok, and automation.</li></ul>
+
+- project: Air Quality Analysis Project
+  role: Data Science project
+  duration: Feb, 2025 &mdash; April, 2025
+  url: "https://github.com/felixxvo7/Air-Quality-Analysis-Project"
+  description: <ul class="resume-item-list"><li>Explored relationships between pollutants, sensor data, and environmental factors to build predictive models.</li><li>Conducted exploratory data analysis (EDA), time-series forecasting, and machine learning techniques.</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Class Scheduler Website
+  role: Web Application
+  duration: 2024 #&mdash; Present
+  url: "https://github.com/ducdonghiem/AuroraProject_Showcase"
+  description: <ul class="resume-item-list"><li>Developed a website to optimize student class schedules, <strong>attracted few hundred users</strong>.</li><li>Implemented Backtracking for schedule generation & web scraping for course data.</li><li>Shared on <a href='https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/'>Reddit</a>.</li></ul>
+
+  #description: Implemented Backtracking for schedule generation & web scraping for course data. Shared on [Reddit](https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/)
+
+- project: Harvest Planning Optimization
+  role: Optimization project
+  duration: 2023 #&mdash; Present
+  url: "https://github.com/ducdonghiem/fund_opt"
+  description: <ul class="resume-item-list"><li>Developed an academic project solving a harvesting optimization problem.</li><li>Utilized Backtracking, Genetic Algorithms, Constraint Programming, and Linear Programming.</li></ul>
+
+- project: Music Recommendation System
+  role: Machine Learning project
+  duration: 2023 #&mdash; Present
+  url: "https://github.com/ducdonghiem/MusicRecommendation"
+  description: Developed a project applying ML & deep learning models for music recommendations.
+
+- project: Sudoku Solver
+  role: Machine Learning project
+  duration: 2022 #&mdash; Present
+  url: "https://github.com/ducdonghiem/AI_Project_Sudoku"
+  description: Built an AI-based Sudoku solver using Simulated Annealing & Neural Networks.
