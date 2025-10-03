@@ -12,7 +12,7 @@
 
   # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-- company: Predictive Analytics, Smart Systems, and Integrated Optimization Lab ([PASSIO](https://www.passiolab.com/))
+- company: Predictive Analytics, Smart Systems, and Integrated Optimization Lab [PASSIO](https://www.passiolab.com/)
   position: Undergraduate research assistant
   duration: August 2025 &mdash; Present
   summary: AI in cardiology.
@@ -20,7 +20,7 @@
 - company: Linagora Vietnam
   position: Software Intern
   duration: September 2025
-  summary: Worked on Twake Calendar frontend tasks using TypeScript and collaborated across teams to understand open-source product workflows.
+  summary: Worked on Twake Calendar frontend tasks using TypeScript and joined meetings across teams (Java, JavaScript, DevOps, QA, and Mobile Flutter) to understand open-source product workflows.
   resume-item-list:
     - Built and tested Twake Calendar features using TypeScript.
     - Joined meetings with Java, JavaScript, DevOps, QA, and Mobile Flutter teams.
