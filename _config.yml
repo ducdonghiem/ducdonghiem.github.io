@@ -23,7 +23,7 @@ resume_contact_address:         "Winnipeg, Manitoba, Canada"
 resume_header_contact_info:     "Winnipeg, Manitoba, Canada • 431-556-7336 • duc.do.nghiem@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am Duc Do, a current undergraduate data science student at University of Manitoba. Before transitioning my academic career to Canada, I was an undergraduate science student majoring in Data Science and Artificial Intelligence at Hanoi University of Science and Technology, Vietnam.</p>"
+resume_header_intro: "<p>I am a current undergraduate Co-op Data Science student at University of Manitoba. Before transitioning my academic career to Canada, I was an undergraduate science student majoring in Data Science and Artificial Intelligence at Hanoi University of Science and Technology, Vietnam.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

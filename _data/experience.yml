@@ -1,10 +1,30 @@
 # Jobs
+
 # URA
-- company: Database and Data Mining Laboratory
-  position: University of Manitoba
-  duration: Summer 2025
-  summary: Involved in data collection, representation, preprocessing, mining, analysis, and visualization.
+- company: Database and Data Mining Lab - University of Manitoba
+  position: Undergraduate research assistant
+  duration: May 2025 &mdash; Present
+  summary: Research on Breast Cancer Detection and LLM Quantization. Collaborating on two research projects: (1) developing data pipelines and machine learning techniques for breast cancer detection using mammogram scans, and (2) exploring large language model (LLM) quantization to improve memory efficiency and inference performance.
+  resume-item-list:
+    - Contributing to breast cancer detection research through medical image preprocessing techniques, multi-modal and multi-task learning, model evaluation, and visualization.
+    - Analyzing LLM quantization by extracting and comparing dequantized weight statistics between base and quantized models to assess precision and performance trade-offs.
+    - Utilizing PyTorch, albumentations, pydicom, C-based scripts for weight extraction, and deep learning architectures such as ResNet-50 and Vision Transformers (ViT).
+
   # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+- company: Predictive Analytics, Smart Systems, and Integrated Optimization Lab ([PASSIO](https://www.passiolab.com/))
+  position: Undergraduate research assistant
+  duration: August 2025 &mdash; Present
+  summary: AI in cardiology.
+
+- company: Linagora Vietnam
+  position: Software Intern
+  duration: September 2025
+  summary: Worked on Twake Calendar frontend tasks using TypeScript and collaborated across teams to understand open-source product workflows.
+  resume-item-list:
+    - Built and tested Twake Calendar features using TypeScript.
+    - Joined meetings with Java, JavaScript, DevOps, QA, and Mobile Flutter teams.
+    - Learned open-source development and product processes.
 
 # Director of Digital Stratgy
 - company: Science Rendezvous Volunteer
