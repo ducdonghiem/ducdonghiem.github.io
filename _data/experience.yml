@@ -4,7 +4,7 @@
 - company: Database and Data Mining Lab - University of Manitoba
   position: Undergraduate research assistant
   duration: May 2025 &mdash; Present
-  summary: Research on Breast Cancer Detection and LLM Quantization. Collaborating on two research projects: (1) developing data pipelines and machine learning techniques for breast cancer detection using mammogram scans, and (2) exploring large language model (LLM) quantization to improve memory efficiency and inference performance.
+  summary: Research on Breast Cancer Detection and LLM Quantization. Collaborating on two research projects (1) developing data pipelines and machine learning techniques for breast cancer detection using mammogram scans, and (2) exploring large language model (LLM) quantization to improve memory efficiency and inference performance.
   resume-item-list:
     - Contributing to breast cancer detection research through medical image preprocessing techniques, multi-modal and multi-task learning, model evaluation, and visualization.
     - Analyzing LLM quantization by extracting and comparing dequantized weight statistics between base and quantized models to assess precision and performance trade-offs.
