@@ -14,7 +14,7 @@ resume_name:                    "Duc Do"
 resume_title:                   "Data Science & AI ethusiastic"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "duc.do.nghiem@gmail.com"
+resume_contact_email:           "dod2@myumanitoba.ca"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "1-431-556-7336"

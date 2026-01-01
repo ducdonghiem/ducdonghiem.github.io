@@ -1,25 +1,34 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: University of Manitoba Student Advisor Chatbot
-  role: Web Application
-  duration: Feb, 2025 &mdash; Present
-  url: "https://github.com/ducdonghiem/UM_advisor_published"
-  description: <ul class="resume-item-list"><li>Developed an AI-powered chatbot for university student advising.</li><li>Integrated LangChain, SQL, RAG method, Ngrok, and automation.</li></ul>
-
-- project: Air Quality Analysis Project
-  role: Data Science project
-  duration: Feb, 2025 &mdash; April, 2025
-  url: "https://github.com/felixxvo7/Air-Quality-Analysis-Project"
-  description: <ul class="resume-item-list"><li>Explored relationships between pollutants, sensor data, and environmental factors to build predictive models.</li><li>Conducted exploratory data analysis (EDA), time-series forecasting, and machine learning techniques.</li></ul>
-
 # Springfield Community Outreach Group
 - project: Class Scheduler Website
   role: Web Application
   duration: 2024 #&mdash; Present
   url: "https://github.com/ducdonghiem/AuroraProject_Showcase"
   description: <ul class="resume-item-list"><li>Developed a website to optimize student class schedules, <strong>attracted few hundred users</strong>.</li><li>Implemented Backtracking for schedule generation & web scraping for course data.</li><li>Shared on <a href='https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/'>Reddit</a>.</li></ul>
+
+- project: World Cup Database System
+  role: SQL, Database Design, CLI, Security
+  duration: 2025 #&mdash; Present
+  url: "https://github.com/ducdonghiem/WorldCupDB COMP3380"
+  description: <ul class="resume-item-list"><li>Designed and implemented a relational database system for World Cup data, including schema design and table normalization (1NF–3NF).</li><li>Developed a command-line interface in Python to interact with a database server using SQL queries with injection prevention.</li><li>Preprocessed and loaded raw data into the database, ensuring data consistency and referential integrity.</li></ul>
+
+  # description: Developed a project applying ML & deep learning models for music recommendations.
+
+- project: Air Quality Analysis Project
+  role: Data Science project
+  duration: 2025
+  url: "https://github.com/felixxvo7/Air-Quality-Analysis-Project"
+  description: <ul class="resume-item-list"><li>Explored relationships between pollutants, sensor data, and environmental factors to build predictive models.</li><li>Conducted exploratory data analysis (EDA), time-series forecasting, and machine learning techniques.</li></ul>
+
+
+# jazznotes.io
+- project: University of Manitoba Student Advisor Chatbot
+  role: Web Application
+  duration: 2025
+  url: "https://github.com/ducdonghiem/UM_advisor_published"
+  description: <ul class="resume-item-list"><li>Developed an AI-powered chatbot for university student advising.</li><li>Integrated LangChain, SQL, RAG method, Ngrok, and automation.</li></ul>
 
   #description: Implemented Backtracking for schedule generation & web scraping for course data. Shared on [Reddit](https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/)
 
@@ -29,11 +38,11 @@
   url: "https://github.com/ducdonghiem/fund_opt"
   description: <ul class="resume-item-list"><li>Developed an academic project solving a harvesting optimization problem.</li><li>Utilized Backtracking, Genetic Algorithms, Constraint Programming, and Linear Programming.</li></ul>
 
-- project: Music Recommendation System
-  role: Machine Learning project
-  duration: 2023 #&mdash; Present
-  url: "https://github.com/ducdonghiem/MusicRecommendation"
-  description: Developed a project applying ML & deep learning models for music recommendations.
+# - project: Music Recommendation System
+#   role: Machine Learning project
+#   duration: 2023 #&mdash; Present
+#   url: "https://github.com/ducdonghiem/MusicRecommendation"
+#   description: Developed a project applying ML & deep learning models for music recommendations.
 
 - project: Sudoku Solver
   role: Machine Learning project

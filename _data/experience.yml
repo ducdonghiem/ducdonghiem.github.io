@@ -1,21 +1,22 @@
 # Jobs
 
+- company: Predictive Analytics, Smart Systems, and Integrated Optimization Lab #- https://www.passiolab.com/
+  position: Student Researcher
+  duration: August 2025 &mdash; Present
+  summary: Research in medical machine learning, with a particular emphasis on cardiology. Perform feature extraction from electrocardiogram (ECG) signals, apply feature selection, dimensionality reduction for visualization, classification, unsupervised clustering, and disease phenotype modeling.
+
+
 # URA
 - company: Database and Data Mining Lab - University of Manitoba
   position: Undergraduate research assistant
-  duration: May 2025 &mdash; Present
-  summary: Research on Breast Cancer Detection and LLM Quantization. Collaborating on two research projects (1) developing data pipelines and machine learning techniques for breast cancer detection using mammogram scans, and (2) exploring large language model (LLM) quantization to improve memory efficiency and inference performance.
+  duration: May 2025 &mdash; October 2025
+  summary: Research on Breast Cancer Detection and LLM Quantization. Collaborated on two research projects (1) developed data pipelines and machine learning techniques for breast cancer detection using mammogram scans, and (2) explored large language model (LLM) quantization to improve memory efficiency and inference performance.
   resume-item-list:
-    - Contributing to breast cancer detection research through medical image preprocessing techniques, multi-modal and multi-task learning, model evaluation, and visualization.
-    - Analyzing LLM quantization by extracting and comparing dequantized weight statistics between base and quantized models to assess precision and performance trade-offs.
-    - Utilizing PyTorch, albumentations, pydicom, C-based scripts for weight extraction, and deep learning architectures such as ResNet-50 and Vision Transformers (ViT).
+    - Contributed to breast cancer detection research through medical image preprocessing techniques, multi-modal and multi-task learning, model evaluation, and visualization.
+    - Analyzed LLM quantization by extracting and comparing dequantized weight statistics between base and quantized models to assess precision and performance trade-offs.
+    - Utilized PyTorch, albumentations, pydicom, C-based scripts for weight extraction, and deep learning architectures such as ResNet-50 and Vision Transformers (ViT).
 
   # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-- company: Predictive Analytics, Smart Systems, and Integrated Optimization Lab [PASSIO](https://www.passiolab.com/)
-  position: Undergraduate research assistant
-  duration: August 2025 &mdash; Present
-  summary: AI in cardiology.
 
 - company: Linagora Vietnam
   position: Software Intern

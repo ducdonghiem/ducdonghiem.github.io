@@ -1,16 +1,16 @@
 # Skills
 # Organizational leadership
 - skill: Programming
-  description: Python, Java, R, C/C++, JavaScript (jQuery), Shell Script, SQL, HTML/CSS, Markdown/LaTeX.
+  description: Python, Java, R, C/C++, JavaScript, Shell Script, SQL, HTML/CSS, Markdown, LaTeX
 
 # Communications strategy
 - skill: Tools
-  description: Git, TensorFlow, Unity, Microsoft Azure, Google Cloud.
+  description: Git, PyTorch, Microsoft Azure, Google Cloud Platform, Caddy Web Server
 
 # Digital content development and creation
 - skill: Optimization
   description: Gradient Descent, Backtracking, Simulated Annealing, Genetic Algorithms, Constraint Programming.
   
 - skill: Machine Learning
-  description: Random Forest, SVM, KNN, PCA, K-Means, Neural Networks (CNNs, Transformers).
+  description: PCA, Random Forest, SVM, KNN, K-Means, Neural Networks (MLPs, CNNs, Transformers).
    
