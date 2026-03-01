@@ -44,8 +44,8 @@
 #   url: "https://github.com/ducdonghiem/MusicRecommendation"
 #   description: Developed a project applying ML & deep learning models for music recommendations.
 
-- project: Sudoku Solver
-  role: Machine Learning project
-  duration: 2022 #&mdash; Present
-  url: "https://github.com/ducdonghiem/AI_Project_Sudoku"
-  description: Built an AI-based Sudoku solver using Simulated Annealing & Neural Networks.
+# - project: Sudoku Solver
+#   role: Machine Learning project
+#   duration: 2022 #&mdash; Present
+#   url: "https://github.com/ducdonghiem/AI_Project_Sudoku"
+#   description: Built an AI-based Sudoku solver using Simulated Annealing & Neural Networks.

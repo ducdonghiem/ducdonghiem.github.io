@@ -20,10 +20,12 @@ resume_contact_email:           "dod2@myumanitoba.ca"
 resume_contact_telephone:       "1-431-556-7336"
 resume_contact_address:         "Winnipeg, Manitoba, Canada"
 
-resume_header_contact_info:     "Winnipeg, Manitoba, Canada • 431-556-7336 • duc.do.nghiem@gmail.com"
+resume_header_contact_info:     "Winnipeg, Manitoba, Canada • 431-556-7336 • dod2@myumanitoba.ca"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a current undergraduate Co-op Data Science student at University of Manitoba. Before transitioning my academic career to Canada, I was an undergraduate science student majoring in Data Science and Artificial Intelligence at Hanoi University of Science and Technology, Vietnam.</p>"
+# resume_header_intro: "<p>I am a current undergraduate Co-op Data Science student at University of Manitoba. Before transitioning my academic career to Canada, I was an undergraduate science student majoring in Data Science and Artificial Intelligence at Hanoi University of Science and Technology, Vietnam.</p>"
+resume_header_intro: "<p>I’m a 3rd‑year Data Science co‑op student at the University of Manitoba with experience in applied machine learning and computer vision. My current work focuses on medical deep learning and explainable AI as a student researcher in the Predictive Analytics, Smart Systems, and Integrated Optimization Lab, building on prior research experience in the Database and Data Mining Lab at UofM. I’m actively seeking co‑op opportunities for this summer.</p>"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -33,11 +35,12 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
+resume_section_publication:     true
 resume_section_education:       true
 resume_section_experience:      true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
 # resume_section_interests:       true

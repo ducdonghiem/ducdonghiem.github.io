@@ -48,6 +48,26 @@
 
       </header>
 
+      {% if site.resume_section_publication %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for pub in site.data.publications %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="citation">{{ pub.authors }}. {{ pub.year }}. {{ pub.title }}.</h3>
+          <h4 class="resume-item-details">{{ pub.venue }}</h4>
+          <p class="resume-item-copy">{{ pub.notes }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
@@ -87,7 +107,6 @@
               <li>{{ award.award }}</li>
               {% endfor %}
             </ul>
-
 
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
@@ -135,8 +154,8 @@
       <!-- end Skills -->
       {% endif %}
 
-      {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
+      
+      <!-- {% if site.resume_section_recognition %}
       <section class="content-section">
 
         <header class="section-header">
@@ -152,8 +171,8 @@
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
-      {% endif %}
+      {% endif %} -->
+
 
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
