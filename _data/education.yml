@@ -8,9 +8,9 @@
 - degree: Bachelor of Science in Data Science
   uni: University of Manitoba
   year: 2023 — 2028 (Expected)
-  award: Academic Distinctions
+  # award: Academic Distinctions
   awards:
-    - award: GPA 4.19/4.5
+    - award: GPA <strong>4.19/4.5</strong>
     - award: Executive at UM Tech & Innovation Club
     - award: Undergraduate Research Award 2025 recipient (URA)
     - award: Faculty of Science Dean's Honour List
