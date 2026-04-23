@@ -1,6 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: SwinBraTS — Brain Tumor Segmentation
+  role: Deep Learning project
+  duration: 2025
+  url: "https://github.com/ducdonghiem/swin-brats-domain-shift"
+  description: <ul class="resume-item-list"><li>Built SwinBraTS, a Swin‑Transformer U‑Net for multi‑modal MRI tumor segmentation under domain shift.</li><li>Implemented projection/reconstruction blocks, on‑GPU augmentation, and C‑parameter ablations, achieving 0.6645 mean DSC on BraTS 2021.</li></ul>
+
+
 # Springfield Community Outreach Group
 - project: Class Scheduler Website
   role: Web Application
@@ -21,7 +28,6 @@
   duration: 2025
   url: "https://github.com/felixxvo7/Air-Quality-Analysis-Project"
   description: <ul class="resume-item-list"><li>Explored relationships between pollutants, sensor data, and environmental factors to build predictive models.</li><li>Conducted exploratory data analysis (EDA), time-series forecasting, and machine learning techniques.</li></ul>
-
 
 # jazznotes.io
 - project: University of Manitoba Student Advisor Chatbot
