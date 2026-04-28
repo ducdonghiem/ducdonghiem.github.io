@@ -1,7 +1,7 @@
 # Jobs
 
-- company: Department of Plant Science - University of Manitoba
-  position: Lab Student Assistant
+- company: Crop and Weed Biology & Management Lab, Department of Plant Science - University of Manitoba
+  position: Student Assistant Researcher
   duration: April 2026 &mdash; September 2026
   summary: Summer Co-op position assisting with plant science research. Responsibilities included data annotation, analysis, computer vision tasks for plant science applications, and general lab support.
 
@@ -12,7 +12,7 @@
   summary: Research in medical machine learning, with a particular emphasis on cardiology. Perform feature extraction from electrocardiogram (ECG) signals; apply feature selection, dimensionality reduction for visualization, classification, unsupervised clustering, disease phenotype modeling, explainable AI (XAI), self-supervised learning, and fine-tuning of ECG foundation models.
 
 # URA
-- company: Database and Data Mining Lab - University of Manitoba
+- company: Database and Data Mining Lab, Department of Computer Science - University of Manitoba
   position: Student Researcher
   duration: May 2025 &mdash; October 2025
   summary: Researched on Breast Cancer Detection and LLM Quantization. Collaborated on two research projects (1) developed data pipelines and machine learning techniques for breast cancer detection using mammogram scans, and (2) explored large language model (LLM) quantization to improve memory efficiency and inference performance. Utilized PyTorch, albumentations, pydicom, C-based scripts for weight extraction, and deep learning architectures such as ResNet-50 and Vision Transformers (ViT).
