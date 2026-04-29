@@ -5,7 +5,7 @@
   notes: "Preprint: https://arxiv.org/abs/2603.11680"
 
 # - authors: "<strong>Duc Nghiem Do</strong>, Minh Nghiem Do, Dang Nguyen, Hung N. Huynh, Quan Le, Jacques Kpodonu, Phat K. Huynh"
-- author: "<strong>Duc N. Do</strong>, Minh N. Do, Dang Nguyen, Khanh T.Q. Le, Khoa D. Pham, Hung N. Huynh, Phi Pham-Van-Hoang, Quan K. Huynh, Ramez M. Odat, Perisa Ashar, Ethan Philip Lowder, Minh H.N. Le, Hoang Le, Phat V.H. Nguyen, Quan Le, Jacques Kpodonu, and Phat K. Huynh"
+- authors: "<strong>Duc N. Do</strong>, Minh N. Do, Dang Nguyen, Khanh T.Q. Le, Khoa D. Pham, Hung N. Huynh, Phi Pham-Van-Hoang, Quan K. Huynh, Ramez M. Odat, Perisa Ashar, Ethan Philip Lowder, Minh H.N. Le, Hoang Le, Phat V.H. Nguyen, Quan Le, Jacques Kpodonu, and Phat K. Huynh"
   year: 2026
   title: "Domain-Adapted Fine-Tuning of ECG Foundation Models for Multi-Label Structural Heart Disease Screening"
   venue: "Accepted at the Canadian Conference on Artificial Intelligence (CAI 2026). To appear in the Proceedings of Machine Learning Research (PMLR), vol. 318"
