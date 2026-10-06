@@ -1,0 +1,94 @@
+/* Plain on purpose. Shared by every page; no build step. */
+:root {
+  color-scheme: light;
+  --paper: #faf9f3;
+  --ink: #222;
+  --rule: #bbb;
+}
+
+body {
+  max-width: 860px;
+  margin: 28px auto;
+  padding: 0 20px;
+  background: var(--paper);
+  color: var(--ink);
+  font: 16px/1.5 "Times New Roman", Times, serif;
+}
+
+a:link { color: #0000ee; }
+a:visited { color: #551a8b; }
+a:hover { color: #b00000; }
+a:focus-visible { outline: 2px dotted currentColor; outline-offset: 3px; }
+
+header { border-bottom: 1px solid var(--rule); padding-bottom: 12px; }
+h1 { margin: 0; font-size: 30px; line-height: 1.2; }
+header p { margin: 4px 0 0; }
+h2 { margin: 0 0 16px; font-size: 24px; }
+h3 { margin: 24px 0 4px; font-size: 18px; }
+p { margin: 0 0 14px; }
+ul, ol { padding-left: 24px; }
+li { margin-bottom: 8px; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 22px 0; }
+img { max-width: 100%; height: auto; }
+
+/* Table-like columns, with a sensible reading order on narrow screens. */
+.page-layout { display: table; width: 100%; margin: 22px 0; }
+.sidebar, main { display: table-cell; vertical-align: top; }
+.sidebar { width: 150px; padding-right: 22px; }
+.sidebar nav ul { margin: 0; padding: 0; list-style: none; }
+.sidebar nav li { margin-bottom: 10px; }
+.sidebar .small-print { margin-top: 28px; }
+main { padding-left: 24px; border-left: 1px solid var(--rule); }
+.skip-link { position: absolute; left: -9999px; }
+.skip-link:focus { position: static; display: inline-block; margin-bottom: 10px; }
+
+.profile { display: table; width: 100%; margin-bottom: 20px; }
+.portrait, .intro { display: table-cell; vertical-align: top; }
+.portrait { width: 154px; padding-right: 20px; }
+.portrait img { display: block; width: 154px; height: 192px; object-fit: contain; border: 1px solid #999; background: #eee; }
+.contact-links { margin-bottom: 0; }
+.small-print { font-size: 13px; }
+.quiet { color: #555; }
+.metadata { margin-bottom: 10px; }
+.photo-strip { margin: 25px 0 20px; }
+.photo-strip img { display: inline-block; width: 184px; vertical-align: middle; margin: 0 12px 12px 0; border: 1px solid #999; }
+.photo-strip .wide { width: 268px; }
+.publications li { margin-bottom: 22px; }
+.publications p { margin: 5px 0 0; }
+.award-list li { margin-bottom: 10px; }
+.experience-entry { margin-bottom: 22px; }
+.experience-entry h3 { margin-top: 0; }
+.record { border-collapse: collapse; width: 100%; margin: 12px 0 22px; }
+.record th, .record td { padding: 6px 10px 6px 0; text-align: left; vertical-align: top; border-bottom: 1px solid #ddd; }
+.record th { width: 110px; }
+footer { border-top: 1px solid var(--rule); padding-top: 10px; font-size: 13px; }
+footer p { margin: 0; }
+.secret-image { display: block; width: 360px; margin: 20px 0; border: 1px solid #999; }
+.construction { width: 104px; height: 16px; }
+
+@media (max-width: 620px) {
+  body { margin: 18px auto; padding: 0 14px; }
+  .page-layout, .sidebar, main { display: block; }
+  .sidebar { width: auto; padding: 0 0 14px; margin-bottom: 20px; border-bottom: 1px solid var(--rule); }
+  .sidebar nav ul { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+  .sidebar nav li { margin: 0; }
+  .sidebar .small-print { display: none; }
+  main { border: 0; padding: 0; }
+  .portrait { width: 112px; padding-right: 16px; }
+  .portrait img { width: 112px; height: 140px; }
+  .photo-strip img { width: 43%; margin-right: 4%; }
+  .photo-strip .wide { width: 88%; }
+}
+
+@media (max-width: 380px) {
+  .profile, .portrait, .intro { display: block; }
+  .portrait { margin-bottom: 16px; }
+}
+
+@media print {
+  body { max-width: none; margin: 0; background: white; color: black; }
+  .sidebar, .skip-link, .photo-strip, footer { display: none; }
+  .page-layout, main { display: block; }
+  main { padding: 0; border: 0; }
+  a:link, a:visited { color: black; }
+}

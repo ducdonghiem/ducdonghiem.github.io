@@ -1,3 +1,72 @@
----
-layout: resume
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Duc Do's personal homepage. Data science, research, and a few photographs.">
+  <title>Duc Do's Homepage</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/site.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header>
+    <h1>Duc Nghiem Do</h1>
+    <p>Data Science student &middot; Winnipeg, Canada</p>
+  </header>
+  <div class="page-layout">
+    <aside class="sidebar">
+      <nav aria-label="Main navigation">
+        <ul>
+          <li><a href="index.html" aria-current="page">Home</a></li>
+          <li><a href="education.html">Education</a></li>
+          <li><a href="publications.html">Publications &amp; Awards</a></li>
+          <li><a href="experience.html">Relevant Experience</a></li>
+          <li><a href="404.html">R&eacute;sum&eacute;</a></li>
+        </ul>
+      </nav>
+      <!-- <p class="small-print quiet">Why so serious?</p> -->
+    </aside>
+    <main id="content">
+      <h2>Hello, I'm Duc.</h2>
+      <div class="profile">
+        <div class="portrait">
+          <!-- Replace both files, or change src and data-cursed to your filenames. -->
+          <img id="profile-photo" src="assets/images/profile.jpg"
+               data-cursed="assets/images/profile-cursed.svg"
+               width="154" height="192" alt="Profile photo placeholder for Duc Do">
+        </div>
+        <div class="intro">
+          <p>I'm a Data Science co-op student at the University of Manitoba. My research interests include applied machine learning, computer vision, and AI in healthcare.</p>
+          <p>I'm currently a Data Analyst co-op at the Institute for Minimal Access Surgical Sciences at St. Boniface General Hospital, and a part-time Research Assistant at PASSIO Lab.</p>
+        </div>
+      </div>
+      <p>This is my small corner of the internet. Some research, some photographs, and very little CSS.</p>
+      <h3>Find me</h3>
+      <ul class="contact-links">
+        <li><a href="mailto:dod2@myumanitoba.ca">dod2@myumanitoba.ca</a></li>
+        <li><a href="https://github.com/ducdonghiem">GitHub</a>
+          &middot; <a href="https://linkedin.com/in/duc-do-nghiem-27412824a/">LinkedIn</a>
+          &middot; <a href="https://scholar.google.com/citations?hl=en&amp;user=cwcRZrEAAAAJ">Google Scholar</a></li>
+        <!-- This one is deliberately suspicious only in the source. -->
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Download CV</a></li>
+      </ul>
+      <!-- No captions. Replace the placeholders with your own photographs. -->
+      <div class="photo-strip">
+        <img src="assets/images/photos/01.jpg" width="360" height="250" alt="" loading="lazy">
+        <img src="assets/images/photos/02.jpg" width="360" height="250" alt="" loading="lazy">
+      </div>
+      <p class="small-print quiet">You are visitor number [counter permanently broken].</p>
+    </main>
+  </div>
+  <footer>
+    <p>Last updated: <time datetime="2026-10-05">October 5, 2026</time> &middot;
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="assets/images/under-construction.svg">
+        <img class="construction" src="assets/images/under-construction.gif" width="104" height="16" alt="Under construction">
+      </picture>
+      <a href="secret.html" aria-label="A small detour">.</a>
+    </p>
+  </footer>
+</body>
+</html>

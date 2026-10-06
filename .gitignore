@@ -1,4 +1,6 @@
-_site
-.sass-cache
 .DS_Store
-_vendor
+Thumbs.db
+__pycache__/
+*.pyc
+
+README.md
